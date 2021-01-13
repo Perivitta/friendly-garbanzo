@@ -1,5 +1,4 @@
-# friendly-garbanzo
-MLH - Day3 repo
+
 # friendly-garbanzo
 MLH - Day3 repo
 
